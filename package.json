@@ -1,0 +1,10 @@
+{
+  "name": "react-page-engine",
+  "version": "0.1.0",
+  "description": "an open-source react page builder base on json, nextjs frienly, using for website builders and other purposes",
+  "main": "index.js",
+  "repository": "git@github.com:sudomopoy/react-page-engine.git",
+  "author": "mopoy <mopoy.code@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
