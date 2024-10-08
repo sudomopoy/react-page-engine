@@ -1,0 +1,11 @@
+[
+    {
+        "component_id": "6rs8h45h",
+        "Name": "paragraph",
+        "type": "p",
+        "className": "text-red-500 text-xl mb-5",
+        "style": {
+            "fontSize": "16px"
+        }
+    }
+]

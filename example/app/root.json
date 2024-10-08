@@ -1,0 +1,47 @@
+{
+    "type": "div",
+    "className": "container bg-secondary h-full text-black text-center",
+    "style": {
+        "padding": "20px"
+    },
+    "children": [
+        {
+            "type": "h1",
+            "className": "text-black",
+            "content": "Hello! Welcome"
+        },
+        {
+            "type": "component",
+            "component_id": "6rs8h45h",
+            "className": "text-black mb-5",
+            "style": {
+                "fontSize": "16px"
+            },
+            "content": "React Component Engine"
+        },
+        {
+            "type": "div",
+            "className": "flex flex-row justify-between gap-1",
+            "children": [
+                {
+                    "type": "a",
+                    "className": "bg-blue-500 text-white rounded-xl px-3 py-2 mt-5",
+                    "style": {
+                        "fontSize": "16px"
+                    },
+                    "content": "Click on Me",
+                    "href": "https://www.google.com"
+                },
+                {
+                    "type": "a",
+                    "className": "bg-blue-500 text-white rounded-xl px-3 py-2 mt-5",
+                    "style": {
+                        "fontSize": "16px"
+                    },
+                    "content": "Click on Me",
+                    "href": "https://www.google.com"
+                }
+            ]
+        }
+    ]
+}
