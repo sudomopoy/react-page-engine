@@ -24,7 +24,8 @@
             "className": "flex flex-row justify-between gap-1",
             "children": [
                 {
-                    "type": "a",
+                    "type": "component",
+                    "component_id": "q54hw4h2",
                     "className": "bg-blue-500 text-white rounded-xl px-3 py-2 mt-5",
                     "style": {
                         "fontSize": "16px"

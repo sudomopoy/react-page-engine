@@ -14,11 +14,6 @@ const config: Config = {
       },
     },
   },
-  safelist: [
-    {
-      pattern: /.*/, // This pattern includes all classes
-    },
-  ],
   plugins: [],
 };
 export default config;
